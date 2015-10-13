@@ -1,2 +1,2 @@
 # hellomaven
-hellomaven triggers jenkins (GitHub)
+hellomaven triggers jenkins using GitHub.
